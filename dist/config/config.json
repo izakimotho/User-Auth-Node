@@ -1,0 +1,10 @@
+{
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_pass": "jitambulishe",
+    "db_name": "mydb",
+    "token_expiry": 8640,
+    "refresh_token_expiry": 17280,
+    "domain": "jitambulishe.com",
+    "scheme": "https"
+}
